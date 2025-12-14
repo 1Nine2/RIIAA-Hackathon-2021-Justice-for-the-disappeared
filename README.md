@@ -6,3 +6,5 @@ Use of image processing with Open CV for signature identification
 Use of Azure Cognitive Services for stamp detection
 Use of Layout Parser for table recognition
 Algorithm independence for use in different datasets
+
+Presentation: https://www.canva.com/design/DAEn5EWsMpA/R72w6iABCkyUYlH53iqbWg/view?utm_content=DAEn5EWsMpA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc579323f72
